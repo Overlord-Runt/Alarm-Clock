@@ -11,3 +11,9 @@ It will use a stepper motor to do this with an esp to be the clock. It will have
 Okay time to make all the cool stuff.\
 
 Schematic here:
+
+![schm](assets/SCHM1.png)
+
+PCB here:
+
+![schm](assets/PCB1.png)
