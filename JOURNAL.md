@@ -28,3 +28,19 @@ I did it like this so that I could pick up and move around the esp side a bit wi
 This is actually kinda fun and I hope this works out nicely.
 
 Time spent: 4 hours
+
+27th of May
+
+Finally got time to work on it and now im gonna do some cool stuff. 
+
+So i made some of the case and got an outer shell done. it looks nice and also made a cutout for the buzzers.\
+next im gonna make the screen hole and button holes and also edit the pcb to have hackable pins and a spot for a dht22 for temp checking.
+
+
+for the case i made a trapezoid, extruded it out, shelled it, extruded the walls like 6mm and added heatset holes. finally ended with a panel on the front to cover it up.\
+basic shape done. pretty easy\
+next import the pcb, and move case around it so it lines up.\
+make a nice sound grate thingy with way too overcomplicated sketches and line art for what the final product ends up being.\
+be sad because period ends and you cant work on it anymore.
+
+Time spent: 1 hr
