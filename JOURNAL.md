@@ -29,7 +29,7 @@ This is actually kinda fun and I hope this works out nicely.
 
 Time spent: 4 hours
 
-27th of May
+## 27th of May
 
 Finally got time to work on it and now im gonna do some cool stuff. 
 
@@ -39,8 +39,37 @@ next im gonna make the screen hole and button holes and also edit the pcb to hav
 
 for the case i made a trapezoid, extruded it out, shelled it, extruded the walls like 6mm and added heatset holes. finally ended with a panel on the front to cover it up.\
 basic shape done. pretty easy\
+
 next import the pcb, and move case around it so it lines up.\
 make a nice sound grate thingy with way too overcomplicated sketches and line art for what the final product ends up being.\
 be sad because period ends and you cant work on it anymore.
 
 Time spent: 1 hr
+
+## 28th of May
+
+hello again
+
+today i did a lot of cool stuff.
+
+First: i nearly finished the case with just the stepper mechanism left to go.\
+next i and completely done with the pcb and allat and also made a logo in 20 mins cuz why not + it looks pretty cool.
+
+Second: uhh thats basically all i did so here are some photos of it all.
+
+Time spent: 4 hours
+## 29th of May
+
+Hi
+
+Today i experienced true pain\
+First i worked a little on my case. nothing special really.\
+what happened next is what broke me.\
+So i started firmware today and spent like 2 hours or so on it. i left my computer on when i went to dinner and when i came back, the battery died.\
+
+I forgot to save anything.\
+2 hours down the drain.
+
+Anyways i rewrote it all after that but it was painful.
+
+hours spent: 4
