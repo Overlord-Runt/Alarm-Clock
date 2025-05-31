@@ -88,6 +88,14 @@ The button connects via wires going through the back hole. the placement of the 
 
 After that you can flash the esp with firmware listed in the firmware folder(WIP FOR NOW) and screw everything in.
 
+## Design files
 
+Here are photos of the design files and models
 
+![p](assets/pcb.png)\
+![p](assets/PCB3.png)\
+![p](assets/schm1.png)\
+![p](assets/schm2.png)\
+![p](assets/case2.png)\
+![p](assets/motor.png)
 
