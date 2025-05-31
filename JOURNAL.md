@@ -1,4 +1,10 @@
-# Alarm Clock
+---
+title: "Alarm Clock"
+author: "Taran The Idiot"
+description: "An Alarm clock that opens my curtains because I'm too lazy to open them myself"
+created_at: "2025-05-21"
+---
+
 
 Hello\
 this is my alarm clock.\
