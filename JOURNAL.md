@@ -5,12 +5,13 @@ description: "An Alarm clock that opens my curtains because I'm too lazy to open
 created_at: "2025-05-21"
 ---
 
-
 Hello\
 this is my alarm clock.\
 its gonna fuction just like a normal alarm clock, with the difference being that it also opens my curtains every morning so I dont have to keep waking up in the dark.
 
 It will use a stepper motor to do this with an esp to be the clock. It will have a nice interactive UI on an ssd1306 oled screen and  can be turned off with either a motion sensor or a big red button(I havent decided)
+
+Total Time spent: 22 hours
 
 ## 24th of May
 
@@ -81,7 +82,7 @@ what happened next is what broke me.\
 So i started firmware today and spent like 2 hours or so on it. i left my computer on when i went to dinner and when i came back, the battery died.\
 
 I forgot to save anything.\
-2 hours down the drain.
+2 hours down the drain. T_T
 
 Anyways i rewrote it all after that but it was painful.
 
@@ -102,4 +103,4 @@ Hours spent: 4
 
 Made my Bom and readme submission today. Hopefully I get accepted and the world keeps spinning
 
-Hours Spent: 5
+Hours Spent: 5(ts takes a while okay)
