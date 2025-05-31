@@ -97,3 +97,9 @@ For the remaining cad today, I spent time making the gear that opens/closes my c
 I need to make the repo and finish up firmware now.
 
 Hours spent: 4
+
+## 31st of May
+
+Made my Bom and readme submission today. Hopefully I get accepted and the world keeps spinning
+
+Hours Spent: 5
