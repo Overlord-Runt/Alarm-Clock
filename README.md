@@ -1,5 +1,7 @@
 # Curtain Manager Alarm Clock
 
+![hi](assets/case2.png)
+
 Hello there. This project is an alarm clock that opens and closes my curtains for me because im too lazy to open them myself.
   
 
@@ -45,6 +47,8 @@ Inside there are
 
 The Alarm Body and the Motor are connected through a USBA-A cable as that allows for power transmission and for the 2 datalines for the stepper to transmit between the 2 modules in one clean cable.
 
+![pcb](assets/pcb.png)
+
 ### The Off Button
 
 The off Button connects to the Alarm Body with wires and can be placed basically anywhere.\
@@ -53,5 +57,29 @@ I personally like to use a big red button but if you wish to use something else 
 Why no snooze button?
 
 Snooze buttons are for losers. If your alarm goes off, get your ass out of bed.
+
+## How to make it
+
+Wow you also wanna make this. I am honoured to hear that.
+
+First thing you wanna do is download the cad folder and get all those files printing.
+
+![boo](assets/case2.png)
+
+This is the anoying part
+
+![annoying](assets/motor.png)
+
+I made this part to fit my own curtains. You will have to edit it to fit your own curtains. Everything else should be kept the same.
+
+Order all the parts and the pcb. Once they arrive, you can get to soldering it all together. I will include photos of the finished version once I build it myself so you have a reference.
+
+You need to put 3 heatsets per pcb and then 4 for the front panel of the Alarm Body.
+
+The button connects via wires going through the back hole. the placement of the USBA hole is hopefully correct, If not, I can just change it.
+
+After that you can flash the esp with firmware listed in the firmware folder(WIP FOR NOW) and screw everything in.
+
+
 
 
