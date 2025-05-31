@@ -1,0 +1,11 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+A1,1,Pololu_Breakout_A4988,Pololu_Breakout-16_15.2x20.3mm,,,,tht,"Pololu Breakout Board, Stepper Driver A4988"
+"BZ1, BZ2",2,Buzzer,Indicator_PUI_AI-1440-TWT-24V-2-R,,,,tht,"Buzzer, polarized"
+"J1, J5",2,Conn_01x15_Socket,PinHeader_1x15_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x15, script generated"
+"J10, J9",2,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J11,1,Conn_01x06_Pin,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated"
+J2,1,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+J3,1,Conn_01x04_Socket,PinSocket_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+"J4, J6",2,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+"J7, J8",2,USB_A,USB_A_Connfly_DS1095,,,,tht,USB Type A connector
+"SW2, SW3, SW4, SW5",4,SW_Push,Button-6mm-2pin-tht,,,,smt,"Push button switch, generic, two pins"
