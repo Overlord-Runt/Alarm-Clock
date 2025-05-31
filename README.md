@@ -14,6 +14,14 @@ Well too bad, everything I make is on a whim, boredom, or for the funnies.
 ## What this does
 
 This is an alarm clock(shocker I know) that opens my curtains when it goes off.\
+It has the following features:\
+
+- Alarm Clock(You could have never guessed)
+- Outside weather
+- Inside weather
+- Customisable Ring tone
+- Opens Curtains for you
+
 It is made up of 3 main sections:
 
 - The Motor
