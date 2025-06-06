@@ -104,7 +104,7 @@ Here are photos of the design files and models
 List Of all materials needed to make this.
 
 
- - Nema17 Stepper Motor - x1 -  $5.13 - [source](https://www.aliexpress.com/item/1005007988050979.html?spm=a2g0o.cart.0.0.440338dakTt8D5&mp=1&pdp_npi=5%40dis%21AUD%21AUD%207.97%21AUD%203.23%21%21AUD%203.23%21%21%21%402103209b17486889160791148ef42c%2112000043173756354%21ct%21AU%216138339337%21%211%210)
+ - Nema17 Stepper Motor - x1 -  $13 - [source](https://www.omc-stepperonline.com/e-series-nema-17-bipolar-42ncm-59-49oz-in-1-5a-42x42x38mm-4-wires-w-1m-cable-connector-17he15-1504s)
  - Buzzer - x2
  - SSD1306 128X64 OLED display - X1 - $3.15 - Preowned
  - Buck Converter - X1 - $3.09 - [source](https://www.aliexpress.com/item/1005007259901753.html?spm=a2g0o.cart.0.0.3fb538daUB00x5&mp=1&pdp_npi=5%40dis%21AUD%21AUD%205.20%21AUD%204.89%21%21AUD%204.89%21%21%21%402101e9ec17487026778881064ecff3%2112000039979305524%21ct%21AU%216138339337%21%211%210)
