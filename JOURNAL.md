@@ -104,3 +104,7 @@ Hours spent: 4
 Made my Bom and readme submission today. Hopefully I get accepted and the world keeps spinning
 
 Hours Spent: 5(ts takes a while okay)
+
+## 18th of June
+
+all my parts arrived. soldering tmrw
