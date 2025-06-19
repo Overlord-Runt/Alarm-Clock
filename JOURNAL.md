@@ -108,3 +108,7 @@ Hours Spent: 5(ts takes a while okay)
 ## 18th of June
 
 all my parts arrived. soldering tmrw
+
+## 19th of June
+
+Soldered like 80% of the board. I need to print out the case and get some wire to do the rest. Heatsets were not as hard as people make them out to be.
