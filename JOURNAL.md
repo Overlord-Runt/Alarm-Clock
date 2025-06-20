@@ -7,9 +7,9 @@ created_at: "2025-05-21"
 
 Hello\
 this is my alarm clock.\
-its gonna fuction just like a normal alarm clock, with the difference being that it also opens my curtains every morning so I dont have to keep waking up in the dark.
-
-It will use a stepper motor to do this with an esp to be the clock. It will have a nice interactive UI on an ssd1306 oled screen and  can be turned off with either a motion sensor or a big red button(I havent decided)
+its gonna fuction just like a normal alarm clock, with the difference being that it also opens my curtains every morning so I dont have to keep waking up in the dark.  
+![my honest reaction (see assets/LICENSE.cocacola.mp4)](https://github.com/user-attachments/assets/54da1c22-067c-407b-9c51-49a55e096c45)  
+It will use a stepper motor to do this with an esp to be the clock. It will have a nice interactive UI on an ssd1306 oled screen and  can be turned off with either a motion sensor or a big red button (I havent decided)
 
 Total Time spent: 22 hours
 
